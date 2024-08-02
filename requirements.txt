@@ -1,0 +1,5 @@
+pysqlite3-binary
+langchain
+Streamlit
+openai
+langchain_openai
